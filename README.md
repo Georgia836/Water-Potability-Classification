@@ -1,5 +1,3 @@
-# Water-Potability-Classification
-
 # Water Potability Classification using Decision Trees and Random Forests
 
 ## Overview
